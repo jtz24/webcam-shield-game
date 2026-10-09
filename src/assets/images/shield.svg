@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="151.92316mm"
+   height="151.92316mm"
+   viewBox="0 0 151.92316 151.92316"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="shield.svg"
+   inkscape:export-filename="shield.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.57386457"
+     inkscape:cx="717.06814"
+     inkscape:cy="398.17757"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.344673,-61.616913)">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#a70000;stroke-width:0;stroke-linecap:round"
+       id="path1"
+       cx="90.306252"
+       cy="137.57849"
+       r="75.961578" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#a70000;stroke-width:0;stroke-linecap:round"
+       id="circle1"
+       sodipodi:type="arc"
+       sodipodi:cx="90.306252"
+       sodipodi:cy="137.57849"
+       sodipodi:rx="75.961578"
+       sodipodi:ry="75.961578"
+       sodipodi:start="5.846853"
+       sodipodi:end="0.43633231"
+       sodipodi:arc-type="slice"
+       d="m 159.15082,105.47574 a 75.961578,75.961578 0 0 1 0,64.2055 L 90.306252,137.57849 Z" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#a70000;stroke-width:0;stroke-linecap:round"
+       id="circle2"
+       cx="90.306252"
+       cy="137.57849"
+       r="67.893112" />
+  </g>
+</svg>
